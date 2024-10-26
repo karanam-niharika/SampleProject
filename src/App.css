@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.formcss{
+
+ margin: 0;
+ padding: 0;
+ display: flex;
+justify-content: center;
+align-items: center;
+height:100vh;
+}
+Link{
+    text-decoration: none;
+}
